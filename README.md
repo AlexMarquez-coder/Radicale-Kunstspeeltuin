@@ -21,12 +21,14 @@
 ## Scrum
 * <a href="https://github.com/AlexMarquez-coder/Radicale-Kunstspeeltuin">Github</a>
 * <a href="https://trello.com/b/1txy5VOE/radicale-kunstspeeltuin">Trello</a>
-<a href="https://docs.google.com/spreadsheets/d/1SE8dYRx2JXtsY0zFxrHKpLCHxThyTp0uoVUcDXxS3hQ/edit#gid=0">Logboek</a>
+* <a href="https://docs.google.com/spreadsheets/d/1SE8dYRx2JXtsY0zFxrHKpLCHxThyTp0uoVUcDXxS3hQ/edit#gid=0">Logboek</a>
 
 ## Portfolio
+Dit zijn links naar onze documentatie:
 
-<a href="https://docs.google.com/spreadsheets/d/1SE8dYRx2JXtsY0zFxrHKpLCHxThyTp0uoVUcDXxS3hQ/edit#gid=0">Logboek</a>
+* <a href="https://github.com/AlexMarquez-coder/Radicale-Kunstspeeltuin">Github</a>
+* <a href="https://trello.com/b/1txy5VOE/radicale-kunstspeeltuin">Trello</a>
+* <a href="https://docs.google.com/spreadsheets/d/1SE8dYRx2JXtsY0zFxrHKpLCHxThyTp0uoVUcDXxS3hQ/edit#gid=0">Logboek</a>
 
-#### Trello Link: https://trello.com/b/1txy5VOE/radicale-kunstspeeltuin
 
 
