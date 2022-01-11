@@ -1,5 +1,8 @@
 # Radicale-Kunstspeeltuin
 
+## Team info
+-------------------------------------------------------------------------
+
 #### Team:
 
 1. SD: Alex Marquez Lourenço
