@@ -12,4 +12,6 @@
 5. RV: Dunya Zedak
 6. RV: Angelina Bader
 
+## Het concept
+
 #### Trello Link: https://trello.com/b/1txy5VOE/radicale-kunstspeeltuin
