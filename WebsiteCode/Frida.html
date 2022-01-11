@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Women Inc</title>
+    <link rel="stylesheet" href="css/Frida.css">
+</head>
+<body>
+<div id="dashboard">
+    <div class="item header">
+        <h1>Frida Kahlo</h1>
+    </div>
+
+    <div class="item bodywb">
+
+        <div class="slideshow-container">
+
+            <div class="mySlides fade">
+              <img src="/Afbeeldingen/FridaKahlo1.jpg" style="width:100%">
+            </div>
+            
+            <div class="mySlides fade">
+              <img src="/Afbeeldingen/FridaKahlo2.png" style="width:100%">
+            </div>
+            
+            <div class="mySlides fade">
+              <img src="/Afbeeldingen/FridaKahlo3.jpg" style="width:100%">
+            </div>
+            
+            </div>
+            <br>
+            
+            <div style="text-align:center">
+              <span class="dot"></span> 
+              <span class="dot"></span> 
+              <span class="dot"></span> 
+            </div>
+            
+            <script>
+            var slideIndex = 0;
+            showSlides();
+            
+            function showSlides() {
+              var i;
+              var slides = document.getElementsByClassName("mySlides");
+              var dots = document.getElementsByClassName("dot");
+              for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";  
+              }
+              slideIndex++;
+              if (slideIndex > slides.length) {slideIndex = 1}    
+              for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+              }
+              slides[slideIndex-1].style.display = "block";  
+              dots[slideIndex-1].className += " active";
+              setTimeout(showSlides, 4000); 
+            }
+            </script>
+            
+            <div class="about">
+                <h2>About Frida Kahlo</h2>
+                Frida Kahlo was een Mexicaanse kunstenares die naast haar opmerkelijke wenkbrauwen bekend staat om haar zelfportretten. 
+                <br>
+                De pijn die zij had in haar leven weet ze over 
+                <br>
+                te brengen op het doek. 
+                <br>
+                Na haar dood werd ze nog beroemder en trekken haar exposities honderdduizenden bezoekers. 
+                <br>
+                In deze documentaire komen we meer over Frida te weten.
+            </div>
+
+            <div class="col-25">
+                <div class="container">
+                  <h4>Cart <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i> <b>3</b></span></h4>
+                  <p><a href="#">Kleine kinderen (0 - 5 jaar)</a> <span class="price">free</span></p>
+                  <p><a href="#">Kinderen (6 - 12 jaar)</a> <span class="price">€3</span></p>
+                  <p><a href="#">volwassenen (13+ jaar)</a> <span class="price">€6</span></p>
+                  <hr>
+                  <p>Total <span class="price" style="color:black"><b>€9</b></span></p>
+                </div>
+              </div>
+
+              <div class="schilderij">
+                <div class="portret"><img src="/Afbeeldingen/FridaKahlo4.png" ></div>
+                <div class="text">
+                <h3>Thorn Necklace and Hummingbird</h3>
+
+                Dit is misschien wel het bekendste schilderij van Frida Kahlo 
+                wat ze een jaar na de scheiding met Diego voltooide. 
+                Er wordt gedacht dat dit schilderij een beeltenis is van haar 
+                emotionele staat na de scheiding.
+              </div>
+              </div>
+
+              <br>
+              
+              <div class="contactgegevens">
+                <strong>Contactgegevens</strong>
+                <br>
+                Tel: 06 1234 56 78
+                <br>
+                Mail: mail@kunstspeeltuin.nl
+                <br>
+                Locatie: Condensatorweg 36, 1014 AX Amsterdam
+              </div>
+              <br>
+              <div class="kaart">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.9326145225104!2d4.849228915671087!3d52.38977187978984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5e261fd68cac3%3A0x8f0f59dc8378cb02!2sCondensatorweg%2036%2C%201014%20AX%20Amsterdam!5e0!3m2!1snl!2snl!4v1640256164908!5m2!1snl!2snl" width="340" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+              </div>
+
+              <br>
+              
+              <div class="text2">
+                <h2>Behind the scenes</h2>
+                 Hier kan je zien hoe we de stand hebben gebouwd
+                 <br>
+                 <br>
+                 achter de schermen
+              </div>
+    </div>
+    
+    <div class="item footer">
+        <p>© 2022 Frida Kahlo Exhibition</p>
+    </div>
+</div>
+</body>
+</html>  
