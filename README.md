@@ -47,6 +47,8 @@ Dit zijn links naar onze documentatie:
 * <a href="https://docs.google.com/document/d/1LmmTTA3Ktv2A0B8X3F0RKa9jv0BFoPJpmdlC_H3zawQ/edit">Bronnenlijst</a>
 * <a href="https://docs.google.com/document/d/1TbSAfdjdEjegs-1N9tVrf4Xf4x5zXhvr/edit">Beschrijving hoe het werkt</a>
 * <a href="https://26305.hosts2.ma-cloud.nl/2dejaar/periode2/radicale_kunstspeeltuin/WebsiteCode/Frida.html">Mobiele versie website</a>
+* <a href="https://docs.google.com/drawings/d/14mqiab0s2115d48sXATWrZ5KdYcZOAIrd94bpkNlgxA/edit">Magneet Sensor</a>
+
 
 
 
