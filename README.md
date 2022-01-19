@@ -19,6 +19,12 @@ wij als groep wouden in het begin doen dat er ijspegels uit de lucht gingen vall
 
 ## Obstakels
 
+Waar ik als Developer tegen aanliep was eigenlijk niet echt heel veel het was meer bij het bestellen. Ik had eerst een magneet sensor KY-003 besteld maar die kwam maar steets niet binnen. Dus had ik maar op een andere website gekocht maar dat is de magneet sensor KY-035 niet dat het veel uit maakt maar er zit wel een verschil in en dat is dat de De KY-035 geeft een analoog signaal af. De waarde hangt af van de sterkte van het magnetische veld en bij de KY-003 geeft alleen maar een hoge en lage signaal af afhankelijk van de afstand van de magneet.
+
+In het bgin toen ik bezig was met de magneten had ik 3 verschillende Arduinos elke arduino had één led lampje en één magneetsensor maar dat vond ik onhandig om 3 arduinos te gebruiken dus heb ik geprobeerd om één Arduino te gebruiken met 3 led lampje en 3 magneet sensoren. 
+
+
+
 ## Input & Output
 
 ### Input
