@@ -3,11 +3,16 @@
 
 ## Team info
 
-#### Team:
+### Team:
 
-* SD: Alex Marquez Lourenço
-* MV: Kim Dekker
-* MV: Michelle Stendert
+#### Software Developer:
+* Alex Marquez Lourenço
+
+#### Media Vormgeving:
+* Kim Dekker
+* Michelle Stendert
+
+#### Ruimtelijke Vormgeving:
 * RV: Elise Ooms
 * RV: Dunya Zedak
 * RV: Angelina Bader
