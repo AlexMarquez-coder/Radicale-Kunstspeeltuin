@@ -7,11 +7,9 @@
 
 #### Software Developer:
 * Alex Marquez Lourenço
-
 #### Media Vormgeving:
 * Kim Dekker
 * Michelle Stendert
-
 #### Ruimtelijke Vormgeving:
 * RV: Elise Ooms
 * RV: Dunya Zedak
