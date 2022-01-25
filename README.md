@@ -1,7 +1,7 @@
 # Radicale-Kunstspeeltuin
 -------------------------------------------------
 
-<!-- ## Team info
+## Team info
 
 ### Team:
 
@@ -52,7 +52,7 @@ Dit zijn links naar onze documentatie:
 * <a href="https://26305.hosts2.ma-cloud.nl/2dejaar/periode2/radicale_kunstspeeltuin/WebsiteCode/Frida.html">Mobiele versie website</a>
 * <a href="https://docs.google.com/drawings/d/14mqiab0s2115d48sXATWrZ5KdYcZOAIrd94bpkNlgxA/edit">Magneet Sensor</a> 
 * <a href="https://mediacollegeamsterdam-my.sharepoint.com/personal/26305_ma-web_nl/_layouts/15/onedrive.aspx?FolderCTID=0x012000E7C0320EBE15FF4A91191CA0A9DD66E5&id=%2Fpersonal%2F26305%5Fma%2Dweb%5Fnl%2FDocuments%2FBijlagen%2F20220124%5F183122%2Emp4&parent=%2Fpersonal%2F26305%5Fma%2Dweb%5Fnl%2FDocuments%2FBijlagen">Filmpje 1</a>
- -->
+
 
 
 
