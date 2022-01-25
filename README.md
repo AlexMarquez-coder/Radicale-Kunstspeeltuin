@@ -36,7 +36,7 @@ In het begin toen ik bezig was met de magneten had ik 3 verschillende Arduinos e
 
 Voor de user input heb ik voor een Arduino gekozen omdat je veel keuze heb om iets te verzinnen en maken zoals ik zat eerst te twijfelen tussen een licht of laser sensor te gebruiken maar toen bedacht ik me meerder mensen hebben er voor gekozen om met een PIR sensor te werken dat is eigenlijk de licht sensor. Dus toen besloten we als een groep zijnde maar een magneet sensor te doen dat werkt op een magneet en dat leek ons wel een leuk idee om te doen en daarnaast paste het heel bij ons idee dat we hedden om te maken. Ik ook nog een website gebouwd dat MV'ers hebben ontworpen in een XD bestand. De MV'ers hebben een paar mobiele website ontworpen en toen hebben ze een User test gehouden welke app het best was om te bouwen. En vandaar uit ben ik als SD'er begonnen met programmeren in Visual Studio Code. In de website vindt je informatie over de kunstenaar over haar leven maar ook over haar bekenste schilderij die ze heeft gemaakt. We hebben ook in de app een time lapse gemaakt hoe je kan zien hoe we als groep het hebben gebouwd. Op de website is ook de contact gegevens te zien een map van de locatie.
 
-<img src="./Afbeeldingen/Arduino_foto_2.png" alt="Magneet sensorr" style="width:100%">
+<img src="./Afbeeldingen/Arduino_foto_2.png" style="width:100%">
 
 ## Scrum
 Tijdens dit project hebben wij ons aan de scrum methode gehouden, hiervoor hebben wij deze github repo gebruikt en onze trello pagina. We hebben ook een logboek bijgehouden.
