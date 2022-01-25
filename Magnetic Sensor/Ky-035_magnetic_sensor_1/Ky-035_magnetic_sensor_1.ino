@@ -14,7 +14,7 @@
 
 const int sensor1 = A0 ;
 const int sensor2 = A1 ;
-const int sensor3 = A3 ;
+const int sensor3 = A4 ;
 
 const int led1 = 12; 
 const int led2 = 4;
