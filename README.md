@@ -1,7 +1,7 @@
 # Radicale-Kunstspeeltuin
 -------------------------------------------------
 
-<!-- ## Team info
+## Team info
 
 ### Team:
 
@@ -16,6 +16,8 @@
 * Elise Ooms
 * Dunya Zedak
 * Angelina Bader
+
+## De opdracht
 
 ## Het concept
 
@@ -36,7 +38,12 @@ In het begin toen ik bezig was met de magneten had ik 3 verschillende Arduinos e
 
 Voor de user input heb ik voor een Arduino gekozen omdat je veel keuze heb om iets te verzinnen en maken zoals ik zat eerst te twijfelen tussen een licht of laser sensor te gebruiken maar toen bedacht ik me meerder mensen hebben er voor gekozen om met een PIR sensor te werken dat is eigenlijk de licht sensor. Dus toen besloten we als een groep zijnde maar een magneet sensor te doen dat werkt op een magneet en dat leek ons wel een leuk idee om te doen en daarnaast paste het heel bij ons idee dat we hedden om te maken. Ik ook nog een website gebouwd dat MV'ers hebben ontworpen in een XD bestand. De MV'ers hebben een paar mobiele website ontworpen en toen hebben ze een User test gehouden welke app het best was om te bouwen. En vandaar uit ben ik als SD'er begonnen met programmeren in Visual Studio Code. In de website vindt je informatie over de kunstenaar over haar leven maar ook over haar bekenste schilderij die ze heeft gemaakt. We hebben ook in de app een time lapse gemaakt hoe je kan zien hoe we als groep het hebben gebouwd. Op de website is ook de contact gegevens te zien een map van de locatie.
 
-<img src="./Afbeeldingen/Arduino_foto_2.png" style="width:100%">
+<img src="./Afbeeldingen/Arduino_foto_6.jpg" style="width:100%">
+
+### Output
+
+Voor de user output gebruiken we magneet sensoren die ik als SD'er heb gebruikt om de led licht aan te laten gaan bij de juiste vraag.
+De magneet sensor werkt als je er een magneet er bij houdt. Want als je de magneet bij de magneet sensor weg haalt dan gaan het led lampje uit dit hebben wij toegevoegd op de volgende manier je hebt in totaal 3 vragen en elke antwoord bestaat uit 3 bloemen en je moet de juiste bloem pakken en in de kroon zetten. Want als je de juiste bloem pakt zit er aan de onderkant een magneet maar die is heel goed weg gewerkt door de RV'ers dus je weet niet welke een magneet heeft. In de kroon zitten 3 magneet sensoren en als met de juiste bloem die dus de magneet heeft de magneet sensor in de kroon tikt dan gaat er een lichtje branden en als je de foute waar geen magneet in zit tegenaan tikt dan blijft het lichtje uit.
 
 ## Scrum
 Tijdens dit project hebben wij ons aan de scrum methode gehouden, hiervoor hebben wij deze github repo gebruikt en onze trello pagina. We hebben ook een logboek bijgehouden.
@@ -55,8 +62,13 @@ Dit zijn links naar onze documentatie:
 * <a href="https://docs.google.com/document/d/1TbSAfdjdEjegs-1N9tVrf4Xf4x5zXhvr/edit?usp=sharing&ouid=109845830730841674095&rtpof=true&sd=true">Beschrijving hoe het werkt</a>
 * <a href="https://26305.hosts2.ma-cloud.nl/2dejaar/periode2/radicale_kunstspeeltuin/WebsiteCode/Frida.html">Mobiele versie website</a>
 * <a href="https://docs.google.com/drawings/d/14mqiab0s2115d48sXATWrZ5KdYcZOAIrd94bpkNlgxA/edit?usp=sharing">Magneet Sensor</a>
-* <a href="https://docs.google.com/document/d/1_2uXGp5kM_5i7kXtnvolXO9i1-Pc18t0baSaksGG6Fk/edit?usp=sharing">Onderzoek</a> 
-* <a href="https://youtu.be/RRpg7viRXdU">Filmpje 1</a> -->
+* <a href="https://docs.google.com/document/d/1_2uXGp5kM_5i7kXtnvolXO9i1-Pc18t0baSaksGG6Fk/edit?usp=sharing">Onderzoek</a>
+* <a href="https://docs.google.com/spreadsheets/d/17WMuSJof9miy5cMjDM9eiAalRv3CGLPtjEj13PWvpjs/edit?usp=sharing">Kosten & Matrialen lijst</a> 
+* <a href="https://docs.google.com/document/d/1MWgRf35_Eagf1f4HRpYaMQF_XkoMSsQZ8DzrcVAJ97o/edit?usp=sharing">Testplan & Testrapport</a>
+* <a href="https://docs.google.com/document/d/1X-xobo3bcCE3-zGnvy-BeNk7Uu_vF6ImP-yO79z08bs/edit?usp=sharing">Usertest</a> 
+* <a href="https://youtu.be/RRpg7viRXdU">Filmpje Test plan</a>
+* <a href="https://youtu.be/z1mhZNXJRFI">Filmpje usertest</a>
+
 
 
 

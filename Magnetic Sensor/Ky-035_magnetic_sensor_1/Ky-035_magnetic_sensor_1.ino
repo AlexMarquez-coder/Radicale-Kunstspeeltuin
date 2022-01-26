@@ -12,26 +12,33 @@
 *     1 cm afstand 480  verschil -65
 */
 
-const int sensor1 = A0 ;
-const int sensor2 = A1 ;
+// Analoog magneet sensor
+const int sensor1 = A0 ;  
+const int sensor2 = A1 ; 
 const int sensor3 = A4 ;
 
+// GEEFT INDICATIE JUISTE ANTWOORD
 const int led1 = 12; 
 const int led2 = 4;
 const int led3 = 13;
 
 
-bool debug = true;
-// function to read the hall sensor
+// DE FUNCTIE OM DE HALLSENSOR TE LEZEN
 bool readMagnSensor (int sensor){
   int value = analogRead(sensor);
   bool returnStatus;
+
+  // HIER GEBRUIK JE DE OUTPUT WAARDEN VAN DE HALL SENSOR OM TE 
+  // BEPALEN OF DE MAGNEET IN DE BUURT IS OF NIET
   if (value < 510 || value > 550){
     returnStatus = true;
     }
   else{
     returnStatus = false;
     }
+
+  // ALS DEBUG OP TRUE STAAT DAN PRINT DE OUTPUT 
+  // WAARDE VAN DE SENSOR NAAR DE MONITOR 
   if(debug){
    // Serial.print(sensor);
    // Serial.print(returnStatus);
@@ -42,6 +49,7 @@ bool readMagnSensor (int sensor){
 
 void setup ()
 {
+  // HIER MEE ACTIVEER JE DE INGANG EN UITGANG VAN DE ARDUINO 
   Serial.begin(9600); // initialize serial
   pinMode(LED_BUILTIN, OUTPUT);
   pinMode(led1, OUTPUT);
@@ -51,7 +59,10 @@ void setup ()
 
 void loop ()
 {
-  // sensor 1 led 1
+  // DIT ZORGT ER VOOR ALS JE DE MAGNEET SENSOR BIJ DE MAGNEET HOUD
+  // DAN GAAT DE DE LED LICHT BRANDEN EN ANDERS GAAT DIE UIT
+
+  // sensor 1 led 1 
   if (readMagnSensor(sensor1)){
     digitalWrite(led1, HIGH);
     }
