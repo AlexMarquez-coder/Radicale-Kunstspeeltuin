@@ -19,6 +19,8 @@
 
 ## De opdracht
 
+De opdracht is ontwikkel met je team van Rv, MV en Sd studenten een concept voor een speelse immersieve ruimte. Je ontwerp hiervoor  een interactieve installatie met een mapped projectie die geinspireerd is op het werk van de Nederlandse kunstenaar van jullie keuze. De installatie is ruimelijk en immersief, interactief, hedendaags en spannend maar veilig. Alle ruimtes samen vormen een kunstspeeltuin.
+
 ## Het concept
 
 wij als groep wouden in het begin doen dat er ijspegels uit de lucht gingen vallen Bij kunstenaar Studio Drift die we in het begin hadden gekozen. De magneten zouden vallen was de bedoelinge dat je die kon besturen op comando los kon laten vallen maar toen ik meer onderzoek er over deed naar hoe wij het wouden. Kwam ik er achter dat de hardware een lange levertijd op zat om te bestellen. Maar later die dag er na kwamen de RV'ers naar me toe en wouden ze een andere kunstenaar ze hete Frida Kahlo. Ze kwamen met een nieuwe concept en dat is dat je een vragen hebt en waar de bloemen staan staan de antwoorden  dus er zijn in totaal 9 bloemen daar zijn er van 3 antwoorden die goed zijn. Aan de 3 goei bloemen plakken we aan de onderkant een magneet want de bedoeling is dat je de bloemen in de kroon gaat zetten in de kroon zitten 3 magneet sensoren want als je de juiste bloem met de magneet bij de magneet sensor er bij houdt dan gaat er een lampje branden en dat houdt in dat je het antwoord goed hebt. Ardiono
