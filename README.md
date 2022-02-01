@@ -19,7 +19,7 @@
 
 ## De opdracht
 
-De opdracht is ontwikkel met je team van Rv, MV en Sd studenten een concept voor een speelse immersieve ruimte. Je ontwerp hiervoor  een interactieve installatie met een mapped projectie die geinspireerd is op het werk van de Nederlandse kunstenaar van jullie keuze. De installatie is ruimelijk en immersief, interactief, hedendaags en spannend maar veilig. Alle ruimtes samen vormen een kunstspeeltuin.
+De opdracht is ontwikkel met je team van RV, MV en SD studenten een concept voor een speelse immersieve ruimte. Je ontwerp hiervoor  een interactieve installatie met een mapped projectie die geinspireerd is op het werk van de Nederlandse kunstenaar van jullie keuze. De installatie is ruimelijk en immersief, interactief, hedendaags en spannend maar veilig. Alle ruimtes samen vormen een kunstspeeltuin.
 
 ## Het concept
 
