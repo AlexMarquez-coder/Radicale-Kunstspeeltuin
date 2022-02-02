@@ -23,7 +23,7 @@ De opdracht is ontwikkel met je team van RV, MV en SD studenten een concept voor
 
 ## Het concept
 
-wij als groep wouden in het begin doen dat er ijspegels uit de lucht gingen vallen Bij kunstenaar Studio Drift die we in het begin hadden gekozen. De magneten zouden vallen was de bedoelinge dat je die kon besturen op comando los kon laten vallen maar toen ik meer onderzoek er over deed naar hoe wij het wouden. Kwam ik er achter dat de hardware een lange levertijd op zat om te bestellen. Maar later die dag er na kwamen de RV'ers naar me toe en wouden ze een andere kunstenaar ze hete Frida Kahlo. Ze kwamen met een nieuwe concept en dat is dat je een vragen hebt en waar de bloemen staan staan de antwoorden  dus er zijn in totaal 9 bloemen daar zijn er van 3 antwoorden die goed zijn. Aan de 3 goei bloemen plakken we aan de onderkant een magneet want de bedoeling is dat je de bloemen in de kroon gaat zetten in de kroon zitten 3 magneet sensoren want als je de juiste bloem met de magneet bij de magneet sensor er bij houdt dan gaat er een lampje branden en dat houdt in dat je het antwoord goed hebt. Ardiono
+wij als groep wouden in het begin doen dat er ijspegels uit de lucht gingen vallen Bij kunstenaar Studio Drift die we in het begin hadden gekozen. De magneten zouden vallen was de bedoelinge dat je die kon besturen op comando los kon laten vallen maar toen ik meer onderzoek er over deed naar hoe wij het wouden. Kwam ik er achter dat de hardware een lange levertijd op zat om te bestellen. Maar later die dag er na kwamen de RV'ers naar me toe en wouden ze een andere kunstenaar ze hete Frida Kahlo. Ze kwamen met een nieuwe concept en dat is dat je een vragen hebt en waar de bloemen staan staan de antwoorden dus er zijn in totaal 9 bloemen daar zijn er van 3 antwoorden die goed zijn. Aan de 3 goeie bloemen plakken we aan de onderkant een magneet want de bedoeling is dat je de bloemen in de kroon gaat zetten in de kroon zitten 3 magneet sensoren want als je de juiste bloem met de magneet bij de magneet sensor er bij houdt dan gaat er een lampje branden en dat houdt in dat je het antwoord goed hebt. Ardiono
 
 
 ## Obstakels
@@ -61,6 +61,7 @@ Dit zijn links naar onze documentatie:
 * <a href="https://trello.com/b/1txy5VOE/radicale-kunstspeeltuin">Trello</a>
 * <a href="https://docs.google.com/spreadsheets/d/1SE8dYRx2JXtsY0zFxrHKpLCHxThyTp0uoVUcDXxS3hQ/edit?usp=sharing">Logboek</a>
 * <a href="https://docs.google.com/document/d/1WFyvJZqRrCu8vibS2tjBaq6IpWVPJtouL2wzTfeOfKM/edit?usp=sharing">Technische Progressie</a>
+* <a href="https://docs.google.com/document/d/1h2JwK8O8UtS5QNDV4TWi_eJWItbHUs9qGAMglaaDXxQ/edit?usp=sharing">Projectplan</a>
 * <a href="https://docs.google.com/document/d/1LmmTTA3Ktv2A0B8X3F0RKa9jv0BFoPJpmdlC_H3zawQ/edit?usp=sharing">Bronnenlijst</a>
 * <a href="https://docs.google.com/document/d/1TbSAfdjdEjegs-1N9tVrf4Xf4x5zXhvr/edit?usp=sharing&ouid=109845830730841674095&rtpof=true&sd=true">Beschrijving hoe het werkt</a>
 * <a href="https://26305.hosts2.ma-cloud.nl/2dejaar/periode2/radicale_kunstspeeltuin/WebsiteCode/Frida.html">Mobiele versie website</a>
