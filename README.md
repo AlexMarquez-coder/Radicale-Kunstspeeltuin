@@ -71,7 +71,7 @@ Dit zijn links naar onze documentatie:
 * <a href="https://docs.google.com/document/d/1MWgRf35_Eagf1f4HRpYaMQF_XkoMSsQZ8DzrcVAJ97o/edit?usp=sharing">Testplan & Testrapport</a>
 * <a href="https://docs.google.com/document/d/1X-xobo3bcCE3-zGnvy-BeNk7Uu_vF6ImP-yO79z08bs/edit?usp=sharing">Usertest</a> 
 * <a href="https://youtu.be/RRpg7viRXdU">Filmpje Test plan</a>
-* <a href="https://youtu.be/z1mhZNXJRFI">Filmpje usertest</a>
+* <a href="https://youtu.be/TMcA5sFERk4">Filmpje usertest</a>
 
 
 
